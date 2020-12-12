@@ -1,1 +1,5 @@
 2019/build/*
+2020/build/*
+2020/data/*_example
+.gitignore
+.vscode/settings.json
